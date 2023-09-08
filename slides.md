@@ -20,7 +20,7 @@ title: I know Polars is fast, but my data pipelines are written in pandas!
 </div>
 
 <div class="absolute right-5 top-5">
-<img height="150" width="150"  src="qr-github.svg">
+<img height="150" width="150"  src="/qr-github.svg">
 </div>
 
 
@@ -488,5 +488,5 @@ layout: intro
 Please share your feedback! My address is lucabaggi [at] duck.com
 
 <div class="absolute right-5 top-5">
-<img height="150" width="150"  src="qr-linkedin.svg">
+<img height="150" width="150"  src="/qr-linkedin.svg">
 </div>
