@@ -2,7 +2,7 @@
 
 [![cookiecutter slidev](https://img.shields.io/badge/cookiecutter-slidev-D4AA00?logo=cookiecutter&logoColor=fff)](https://github.com/baggiponte/cookiecutter-slidev)
 
-Source code for the talk *I know Polars is fast, but my data pipelines are written in pandas!* at PyCon Portugal 2023.
+Source code for the talk [*I know Polars is fast, but my data pipelines are written in pandas!*](https://pretalx.evolutio.pt/pycon-pt-2023/talk/HB9X8G/) at [PyCon Portugal 2023](https://2023.pycon.pt/home/).
 
 - 📽️ [Live]() TBR
 
