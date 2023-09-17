@@ -1,4 +1,4 @@
-# Polars: is the great dataframe showdown finally over?
+# I know Polars is fast, but my data pipelines are written in pandas!
 
 [![cookiecutter slidev](https://img.shields.io/badge/cookiecutter-slidev-D4AA00?logo=cookiecutter&logoColor=fff)](https://github.com/baggiponte/cookiecutter-slidev)
 
