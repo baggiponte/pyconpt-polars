@@ -4,7 +4,7 @@
 
 Source code for the talk [*I know Polars is fast, but my data pipelines are written in pandas!*](https://pretalx.evolutio.pt/pycon-pt-2023/talk/HB9X8G/) at [PyCon Portugal 2023](https://2023.pycon.pt/home/).
 
-- 📽️ [Live]() TBR
+- 📽️ [Live](https://www.youtube.com/watch?v=OlvEtR6365A)
 
 ## 🛩️ How to run
 
