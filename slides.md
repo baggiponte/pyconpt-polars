@@ -9,7 +9,7 @@ title: I know Polars is fast, but my data pipelines are written in pandas!
 ---
 
 # 🐻‍❄️ I know Polars is fast
-## ... _but my data pipelines are written in pandas!_
+... but my data pipelines are written in pandas!
 
 <div class="absolute bottom-10">
 
@@ -237,7 +237,7 @@ raw.select(
   cs.numeric(),
   ~cs.string(),
   cs.categorical(),
-  
+
   cs.datetime(time_unit: TimeUnit | Collection[TimeUnit]),
   cs.datetime(time_zone: str | timezone | Collection[str | timezone]),
 
@@ -355,7 +355,7 @@ raw.select(
 
 ```python{all|4}
 (
-  time_series 
+  time_series
   .with_columns(
     pl.col("c").min().over(["a", "b"]).suffix("_min")
   )
